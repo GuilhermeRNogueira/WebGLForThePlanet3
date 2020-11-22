@@ -1,5 +1,5 @@
     {
-    "maxNumRounds": 5,
+    "maxNumRounds": 4,
 	
 	"logManagerStyle": "DEBUG",
 	"mongoConnector": "mongodb+srv://admin:admin@fortheplanet-ya50d.mongodb.net/fortheplanetlog?retryWrites=true&w=majority",
@@ -31,7 +31,7 @@
                     {
                         "name": "Blue Player",
                         "fatimaRpcPath": "NONE",
-                        "playerType": "AI-OUTCOME-BASE",
+                        "playerType": "AI-FAIR",
                         "interactionType": "NONE"
                     }
                 ],
